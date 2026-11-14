@@ -26,7 +26,7 @@ export default function Footer() {
             </div>
           ))}
         </div>
-        <p style={{ marginTop: 40, fontSize: 12, color: 'var(--ink-soft)', opacity: .8 }}>Concept redesign by Parastoo Sadeghi for an interview with Life360. Not affiliated with or endorsed by Life360. Product photos and logo belong to Life360; people, stories and some figures are illustrative. <a href="/case-study" style={{ color: 'var(--teal)', fontWeight: 600 }}>Read the case study →</a></p>
+        <p style={{ marginTop: 40, fontSize: 12, color: 'var(--ink-soft)', opacity: .8 }}>Concept redesign by Parastoo Sadeghi for an interview with Life360. Not affiliated with or endorsed by Life360. Product photos and logo belong to Life360; people, stories and some figures are illustrative. <a href="case-study/" style={{ color: 'var(--teal)', fontWeight: 600 }}>Read the case study →</a></p>
       </div>
     </footer>
   )
